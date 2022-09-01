@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+}
+.font{
+    font-size: 20px;
+    color: black;
+}
+a:hover {
+    font-weight: bold;
+    color: red !important;
+    text-decoration: underline !important;
+}
+.header{
+    background-color: #f47425;
+
+}
+.linh {
+    box-shadow: none !important;
+    outline: none;
+    width: 100%;
+}
+.search-hali{
+    padding-left: 1px;
+}
+.font-size-icon{
+    font-size: 30px;
+}
+.img-carousel{
+    height: 550px;
+}
+.footer{
+    background-color: #212121;
+}
+li{
+    color: white;
+    list-style: none;
+}
+h7{
+    padding-top: 30px;
+    color: #C89F65;
+}
+.facebook{
+    fill:rgb(59, 89, 152);
+}
