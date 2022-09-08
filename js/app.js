@@ -1,9 +1,22 @@
 var app = angular.module('myApp', ["ngRoute"]);
 
-app.controller("myCtrl", function($scope){
-
+app.controller("myCtrl", function ($scope, $http) {
+    $http.get("data.json").then((res) => {
+        $scope.products = res.data.products;
+    })
 })
 
+
+app.controller("languageCtrl", function ($scope, $http) {
+    $http.get("data.json").then((res) => {
+        $scope.products = res.data.products;
+        $scope.lag = $scope.products.filter((item) => item.category_id === 1)
+        $scope.self = $scope.products.filter((item) => item.category_id === 2)
+        $scope.marketing = $scope.products.filter((item) => item.category_id === 3)
+        $scope.healthy = $scope.products.filter((item) => item.category_id === 4)
+        $scope.special = $scope.products.filter((item) => item.category_id === 5)
+    })
+})
 app.config([
     "$routeProvider", function ($routeProvider) {
         $routeProvider

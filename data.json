@@ -1,0 +1,329 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "Language"
+        },
+        {
+            "id": 2,
+            "name": "Self Growth"
+        },
+        {
+            "id": 3,
+            "name": "Maketing"
+        },
+        {
+            "id": 4,
+            "name": "Healthy-Sport"
+        },
+        {
+            "id": 5,
+            "name": "Specialized Knowledge"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "English for Beginners",
+            "describe": "A lot of you learn English and have problems like: - Don't know where to start...",
+            "price": 749.000,
+            "sale": 399.000,
+            "category_id": 1,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F61374a72e818b400255e2722&w=1920&q=50",
+            "author": "Hannah Pham"
+        },
+        {
+            "id": 2,
+            "name": "English for hotel restaurant communication",
+            "describe":"You are working in a certain Restaurant ...",
+            "price": 499.000,
+            "sale": 299.000,
+            "category_id": 1,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F603f33d09a780e0025783f6e&w=1920&q=50",
+            "author": "Dang Thanh Kiet"
+        },
+        {
+            "id": 3,
+            "name": "English for communication in the real estate industry",
+            "describe":"now you are working in real estate but...",
+            "price": 899.000,
+            "sale": 399.000,
+            "category_id": 1,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F6000148d44d203002598bc99&w=1080&q=50",
+            "author": "Dang Thanh Kiet"
+        },
+        {
+            "id": 4,
+            "name": "English for communication in the real estate industry",
+            "describe":"now you are working in real estate but ...",
+            "price": 899.000,
+            "sale": 399.000,
+            "category_id": 1,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F6001603644d203002598c07a&w=1080&q=50",
+            "author": "Dang Thanh Kiet"
+        },
+        {
+            "id": 5,
+            "name": "Chinese Communication 1",
+            "describe": "The course helps students have practical basics that help learners easily... " ,
+            "price": 599.000,
+            "sale": 680.000,
+            "category_id": 1,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F600009a544d203002598bc16&w=1080&q=50",
+            "author": "TTB Chinese"
+        },
+        {
+            "id": 6,
+            "name": "Chinese Communication 2",
+            "describe":"The course is designed according to the framework of the...",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fkelley-lecture-video.s3-ap-southeast-1.amazonaws.com%252FVI_1615969669.802_Dai-30.jpg&w=1920&q=50",
+            "author": "Tran Thanh Son"
+        },
+        {
+            "id": 7,
+            "name": "MBTI and career development",
+            "describe":"MBTI not only plays an important role in enterprises but also widely applied ...",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F603f33d09a780e0025783f6e&w=1920&q=50",
+            "author": "Tra"
+        },
+        {
+           "id": 8,
+            "name": "Art of CV writing ",
+            "describe":"MBTI not only plays an important role in enterprises but also widely applied ...",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F613a1b8be818b400255e3399&w=1920&q=50",
+            "author": "Dang Tuan Tien (Ceo Steve Dang)"
+        },
+        {
+            "id": 9,
+            "name": "Build and develop relationships",
+            "describe":"MBTI not only plays an important role in enterprises but also widely applied ...",
+            "price": 399.000,
+            "sale": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F6111575c779ec7002499248b&w=1920&q=50",
+            "author": "Phan Kim Linh"
+            
+        },
+        {
+            "id": 10,
+            "name": "Professional working skills",
+            "describe":"- In-depth training on working skills in the office, in the workplace with ...",
+            "price": 399.000,
+            "sale": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F613a1b8be818b400255e3399&w=1920&q=50",
+            "author": "Truong Tien Binh"
+        },
+        {
+            "id": 11,
+            "name": "Secret body language",
+            "describe": "In life, when communicating, we always ask ourselves what he, she (our ob... ",
+            "price": 599.000,
+            "discount": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F603f33d09a780e0025783f6e&w=1920&q=50",
+            "author": "Dao Thi Dieu Linh"
+        },
+        {
+            "id": 12,
+            "name": "The presentation is not too difficult",
+            "describe": "The course consists of 20 lectures.- ... ",
+            "price": 599.000,
+            "discount": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F6001603644d203002598c07a&w=1080&q=50",
+            "author": "Ngo Di Lam"
+        },
+        {
+            "id": 13,
+            "name": "Secret body language",
+            "describe": "productivity on the Internet but you don't seem to have time to apply...",
+            "price": 599.000,
+            "discount": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F5fffb8de44d203002598bae9&w=1920&q=50",
+            "author": "Dao Tien Dat"
+        },
+        {
+            "id": 14,
+            "name": "NLP Course - Neuro Linguistic Programming",
+            "describe": "There are many young people who ...",
+            "price": 599.000,
+            "discount": 299.000,
+            "category_id": 2,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F60011ede44d203002598bea7&w=1920&q=50",
+            "author": "Dao Thi Dieu Linh"
+        },
+        {
+            "id": 15,
+            "name": "Building a sales machine with Facebook chatbot ",
+            "describe": "In life, when communicating ...",
+            "price": 1599.000,
+            "sale": 999.000,
+            "category_id": 3,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F600000dd44d203002598bbf9&w=1920&q=50",
+            "author": "Van Nghia Do"
+        },
+        {
+            "id": 16,
+            "name": "Facebook Ads for Beginners",
+            "describe": "Currently, online business is a trend and running Facebook ads will...",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 3,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F613df94ee9404100256a4eb6&w=1920&q=50",
+            "author": "Hoang Quy"
+        },
+        {
+            "id": 17,
+            "name": "Marketing for cosmetic dealers",
+            "describe": "The course helps cosmetic business students gain an overview of... ",
+            "price": 699.000,
+            "sale": 399.000,
+            "category_id": 3,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F61374a72e818b400255e2722&w=1920&q=50",
+            "author": "Le Ngan Ha"
+        },
+        {
+            "id": 18,
+            "name": "7 steps to implement facebook marketing - Business in the right direction from the beginning",
+            "describe": "",
+            "price": 699.000,
+            "sale": 399.000,
+            "category_id": 3,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F6111575c779ec7002499248b&w=1920&q=50",
+            "author": "Hoang Quoc Hung"
+        },
+        {
+            "id": 19,
+            "name": "Sales and Marketing Secrets 4.0",
+            "describe": "How can you apply marketing in sales 4.0 today? ",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 3,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F613a1b8be818b400255e3399&w=1920&q=50",
+            "author": "Do hao"
+        },
+        {
+            "id": 20,
+            "name": "How to treat diseases for office workers",
+            "describe": "- The main content of the  ...",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 4,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fkelley-lecture-video.s3-ap-southeast-1.amazonaws.com%252FVI_1615969669.802_Dai-30.jpg&w=1920&q=50",
+            "author": "Pham Dang Dinh "
+        },
+        {
+            "id": 21,
+            "name": "Yoga course for office workers",
+            "describe": "With measures to dispel fatigue for office workers, this course will give you the ",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 4,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F613a1b8be818b400255e3399&w=1920&q=50",
+            "author": "Dang Hung"
+        },
+        {
+            "id": 21,
+            "name": "Meditation and emotional management for modern people",
+            "describe": "- Desire a simple, easy to apply and safe method to ",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 4,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F613c665be818b400255e3c24&w=1920&q=50",
+            "author": "Do Thi Mai"
+        },
+        {
+            "id": 23,
+            "name": "Learn Shuffle Dance with Yen Cua",
+            "describe": "- Shuffle Dance is a popular dance, using mostly foot movements along with playful music rhythm...  ",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 4,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F613a1aace818b400255e3386&w=1080&q=50",
+            "author": "Le Kim Yen"
+        },
+        {
+            "id": 24,
+            "name": "5 weeks to get rid of excess fat with simple exercises",
+            "describe": "The course takes place within 5 weeks with exercises  ...",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 4,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F613a1b8be818b400255e3399&w=1920&q=50",
+            "author": "Pham Thuong Thuong"
+        },
+        {
+            "id": 25,
+            "name": "Health and psychology before pregnancy",
+            "describe": "- Most mothers are psychologically unstable during pregnancy  ...",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 4,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F603f33d09a780e0025783f6e&w=1920&q=50",
+            "author": "Dang Hung"
+        },
+        {
+            "id": 26,
+            "name": "Sales consulting skills",
+            "describe": "Guide you in author from finding customers, approaching customers, presenting products,..",
+            "price": 5499.000,
+            "sale": 299.000,
+            "category_id": 5,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F600009a544d203002598bc16&w=1080&q=50",
+            "author": "Chau Trieu Luan"
+        },
+        {
+            "id": 27,
+            "name": "Actual tax accounting from A - Z",
+            "describe": " The course has briefly condensed important contents and updated the latest policies ... ",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 5,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F6001404444d203002598bf70&w=1080&q=50",
+            "author": "Sa Bui Communal House"
+        },
+        {
+            "id": 28,
+            "name": "Do general accounting on Misa software",
+            "describe": "Deeper understanding of the nature of accounting, know the  of an accounting voucher ...  ",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 5,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F6001603644d203002598c07a&w=1080&q=50",
+            "author": "Nguyen Le Hoang"
+        },
+        {
+            "id": 29,
+            "name": "Health and psychology before pregnancy",
+            "describe": "The course focuses on human resource issues in the business, from the perspective of managers as well as job applicants... ",
+            "price": 699.000,
+            "sale": 399.000,
+            "category_id": 5,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F99e8262a-7b95-4050-a1a0-d6977c9d98ed%252Fproduct%252F6000148d44d203002598bc99&w=1080&q=50",
+            "author": "Le Tham Duong"
+        },
+        {
+            "id": 30,
+            "name": "Full set of company accounting knowledge",
+            "describe": "All economic and financial information must be analyzed and processed by the accounting department...  ",
+            "price": 599.000,
+            "sale": 299.000,
+            "category_id": 5,
+            "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fcdn2.topica.vn%252F191ab4fd-9c62-4494-b209-51f86a3924d3%252Fproduct%252F603f33d09a780e0025783f6e&w=1920&q=50",
+            "author": "Topica Uni"
+        }
+       
+    ]
+}
+   
