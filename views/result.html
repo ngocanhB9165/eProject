@@ -1,0 +1,15 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-4 mt-5" ng-repeat="item in results">
+      <div class="card">
+        <img src={{item.img}} class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{item.name}}</h5>
+          <p class="card-text">{{item.describe}}</p>
+          <h5 class="card-text">{{item.author}}</h5>
+          <button  class="btn btn-warning"><a href="#!detail/{{item.id}}">View Details</a></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

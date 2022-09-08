@@ -24,15 +24,16 @@
             </div> -->
 
 
-            <div class="col-lg-4 form-control2">
-               <input type="text" class="input1" placeholder="search.......">
-               <div class="icon-abs">
-                <i class="fa fa-search" aria-hidden="true"></i>
-               </div>
-                </div>
-            </div>
+            <form id="fom" class="col-lg-4 form-control2" ng-submit="submitSearch(search)">
+                <input type="text" class="input1" ng-model="search" placeholder="search.......">
+                <button type="submit" class="icon-abs">
+                    <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+            </form>
+
         </div>
     </div>
+</div>
 </div>
 <div class="header-2">
     <div class="container">

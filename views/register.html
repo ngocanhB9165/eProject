@@ -1,33 +1,49 @@
-<div class="container">
+<div class="container" ng-controller="registerController">
     <div class="titile-login row text-center">
       <h1>Register</h1>
     </div>
     <div class="row justify-content-center ">
       <div class="col-lg-6 ">
-        <form id="formregister">
-          <div class="form-group l-g ">
-            <input type="text" class="form-control" id="fullname" placeholder="Fullname" name="fullname">
+        <form id="formregister" name="myForm" ng-submit="register(name, phone, email, pass, PASS)">
+          <div class="form-group l-g">
+            <label for="Name" class="font-weight-bold">Username: </label>
+            <input type="text" name="" id="Name" class="form-control" placeholder="Username..." ng-model="name"
+              aria-describedby="helpId">
+          </div>
+
+          <div class="form-group l-g">
+            <label for="phone" class="font-weight-bold">Phone: </label>
+            <input class="form-control" id="phone" name="Phoness" ng-required="true" ng-pattern="phones.PHONE_FORMAT"
+              placeholder="{{phones.PHONE_FORMAT_HELP}}" ng-model="phone" />
+            <small class="text-danger" ng-show="myForm.Phoness.$error.pattern">Invalid phones</small>
           </div>
           <div class="form-group l-g">
-            <input type="text" class="form-control" id="phone" placeholder="Phone" name="phone">
+            <label for="to" class="font-weight-bold">Email: </label>
+            <input class="form-control" id="to" name="To" ng-required="true" ng-pattern="emails.EMAIL_FORMAT"
+              placeholder="{{emails.EMAIL_FORMAT_HELP}}" ng-model="email" />
+            <small class="text-danger" ng-show="myForm.To.$error.pattern">Invalid Email</small>
           </div>
+
+
           <div class="form-group l-g">
-            <input type="text" class="form-control" id="address" placeholder="Address" name="address">
+            <label class="font-weight-bold" for="pass">Password:</label>
+            <input type="password" class="form-control" ng-model="pass" id="pass" placeholder="Password..." />
           </div>
 
           <div class="form-group l-g ">
-            <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Email"
-              name="email">
+            <label for="PASS" class="font-weight-bold">Confirm Password:</label>
+            <input type="password" id="PASS" class="form-control" ng-model="PASS" placeholder="Confirm Password..."
+              ng-change="match()" /><br />
+            <p ng-show="isMatch" style="color:green">
+              Password matched
+            </p>
+            <p ng-hide="isMatch || PASS==null" style="color:red">
+              Password does not match
+            </p>
           </div>
-          <div class="form-group l-g">
-            <input type="password" class="form-control" id="password" placeholder="Password" name="password">
-          </div>
-          <div class="des" id="m">
-            <span>This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.</span>
-          </div>
-          <div class="row k">
+          <div class="row justify-content-between k">
             <button type="submit" class="bt">Register</button>
-
+            <button type="button" class="bt" ng-click="navigateLogin()">Have An Account ? Return To Login</button>
           </div>
         </form>
       </div>

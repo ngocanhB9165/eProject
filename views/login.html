@@ -1,0 +1,25 @@
+<div class="container" ng-controller="loginController">
+  <div class="titile-login row text-center">
+    <h1>Login</h1>
+  </div>
+  <div class="row justify-content-center ">
+    <div class="col-lg-6 ">
+      <form id="formregister" name="myForm" ng-submit="login(phone, pass)">
+        <div class="form-group l-g">
+          <label for="phone" class="font-weight-bold">Phone: </label>
+          <input class="form-control" id="phone" name="Phoness" ng-required="true" ng-pattern="phones.PHONE_FORMAT"
+            placeholder="{{phones.PHONE_FORMAT_HELP}}" ng-model="phone" />
+          <small class="text-danger" ng-show="myForm.Phoness.$error.pattern">Invalid phones</small>
+        </div>
+        <div class="form-group l-g">
+          <label class="font-weight-bold" for="pass">Password:</label>
+          <input type="password" class="form-control" ng-model="pass" id="pass" placeholder="Password..." />
+        </div>
+        <div class="row justify-content-between k">
+          <button type="submit" class="bt">Login</button>
+          <button type="button" class="bt" ng-click="navigateRes()">Don't Have An Account ? Register Now</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
