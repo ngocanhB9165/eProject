@@ -32,14 +32,13 @@
   <div class="container">
     <div class="row text-uppercase">Featured course</div>
     <div class="row mb-2">
-      <div class="col-lg-4" ng-repeat="item in products">
+      <div class="col-lg-4 mt-5" ng-repeat="item in products">
         <div class="card">
           <img src={{item.img}} class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">{{item.name}}</h5>
-            <p class="card-text">{{item.describe}}</p>
+            <p class="card-text text-truncate">{{item.describe}}</p>
             <h5 class="card-text">{{item.author}}</h5>
-            <!-- <a href="#" class=""></a> -->
           </div>
         </div>
       </div>

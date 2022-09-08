@@ -1,13 +1,11 @@
 <div class="container bg">
     <div class="row" ng-controller="languageCtrl">
-        <div class="col-lg-4" ng-repeat="item in data">
-            <div class="card">
-                <img class="card-img-top w-100" src="{{item.img}}" alt="Card image cap">
+        <div class="col-lg-4" ng-repeat="item in marketing">
+            <div class="card" style="background-color:cadetblue; border-color:darkblue;">
+                <img class="card-img-top" src="{{item.img}}" alt="">
                 <div class="card-body">
-                    <h5 class="card-title">{{item.name}}</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                        content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h4 class="card-title">{{item.name}}</h4>
+                    <p class="card-text">{{item.author}}</p>
                 </div>
             </div>
         </div>

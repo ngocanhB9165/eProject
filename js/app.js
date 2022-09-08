@@ -24,6 +24,7 @@ app.controller("myCtrl", function ($scope, $http, $location) {
 app.controller("languageCtrl", function ($scope, $http) {
     $http.get("data.json").then((res) => {
         $scope.products = res.data.products;
+        
         $scope.lag = $scope.products.filter((item) => item.category_id === 1);
         $scope.self = $scope.products.filter((item) => item.category_id === 2);
         $scope.marketing = $scope.products.filter((item) => item.category_id === 3);

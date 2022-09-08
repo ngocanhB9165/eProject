@@ -35,7 +35,7 @@
         {
             "id": 2,
             "name": "English for hotel restaurant communication",
-            "describe":"You are working in a certain Restaurant ...",
+            "describe":"You are working in a certain Restaurant - Hotel, you will have many...",
             "price": 499.000,
             "sale": 299.000,
             "category_id": 1,
@@ -45,7 +45,7 @@
         {
             "id": 3,
             "name": "English for communication in the real estate industry",
-            "describe":"now you are working in real estate but...",
+            "describe":"now you are working in real estate but your English is a barrier for you...",
             "price": 899.000,
             "sale": 399.000,
             "category_id": 1,
@@ -55,7 +55,7 @@
         {
             "id": 4,
             "name": "English for communication in the real estate industry",
-            "describe":"now you are working in real estate but ...",
+            "describe":"now you are working in real estate but your English is a barrier for you...",
             "price": 899.000,
             "sale": 399.000,
             "category_id": 1,
@@ -75,7 +75,7 @@
         {
             "id": 6,
             "name": "Chinese Communication 2",
-            "describe":"The course is designed according to the framework of the...",
+            "describe":"The course is designed according to the framework of the syllabus of 301 Chinese...",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 2,
@@ -85,7 +85,7 @@
         {
             "id": 7,
             "name": "MBTI and career development",
-            "describe":"MBTI not only plays an important role in enterprises but also widely applied ...",
+            "describe":"MBTI not only plays an important role in enterprises but also widely applied in schools...",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 2,
@@ -94,8 +94,8 @@
         },
         {
            "id": 8,
-            "name": "Art of CV writing ",
-            "describe":"MBTI not only plays an important role in enterprises but also widely applied ...",
+            "name": "Art of CV writing and interviewing",
+            "describe":"MBTI not only plays an important role in enterprises but also widely applied in schools...",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 2,
@@ -105,7 +105,7 @@
         {
             "id": 9,
             "name": "Build and develop relationships",
-            "describe":"MBTI not only plays an important role in enterprises but also widely applied ...",
+            "describe":"MBTI not only plays an important role in enterprises but also widely applied in schools...",
             "price": 399.000,
             "sale": 299.000,
             "category_id": 2,
@@ -116,7 +116,7 @@
         {
             "id": 10,
             "name": "Professional working skills",
-            "describe":"- In-depth training on working skills in the office, in the workplace with ...",
+            "describe":"- In-depth training on working skills in the office, in the workplace with very practical...",
             "price": 399.000,
             "sale": 299.000,
             "category_id": 2,
@@ -126,7 +126,7 @@
         {
             "id": 11,
             "name": "Secret body language",
-            "describe": "In life, when communicating, we always ask ourselves what he, she (our ob... ",
+            "describe": "In life, when communicating, we always ask ourselves what he, she (our object of communication)... ",
             "price": 599.000,
             "discount": 299.000,
             "category_id": 2,
@@ -136,7 +136,7 @@
         {
             "id": 12,
             "name": "The presentation is not too difficult",
-            "describe": "The course consists of 20 lectures.- ... ",
+            "describe": "The course consists of 20 lectures.- Teaches students the skills to give a successful presentation... in front of a crowd.- Increases self-confidence and persuasion through speech- The course intertwines theory and practice for students to grasp knowledge effectively. The course will help you gain effective planning skills and logical thinking.",
             "price": 599.000,
             "discount": 299.000,
             "category_id": 2,
@@ -146,7 +146,7 @@
         {
             "id": 13,
             "name": "Secret body language",
-            "describe": "productivity on the Internet but you don't seem to have time to apply...",
+            "describe": "productivity on the Internet but you don't seem to have time to apply those solutions Have you ever, after a day of work, suddenly realized that you still haven't done your job effectively Who There were also bad days at work if you feel stagnant all the time, it's time to take a look at yourself what are the reasons why you are in a bad mood at work What is the cause of your energy? low productivity How to improve work productivity This will help you understand the causes of the above questions as well as provide you with solutions to overcome those difficulties to improve productivity Do your own thing. What are you waiting for, take this course right away.",
             "price": 599.000,
             "discount": 299.000,
             "category_id": 2,
@@ -156,7 +156,7 @@
         {
             "id": 14,
             "name": "NLP Course - Neuro Linguistic Programming",
-            "describe": "There are many young people who ...",
+            "describe": "There are many young people who cannot find their own goals and goals in life in this life. They struggle between so many difficulties where to start. Why NLP? Why do we need NLP? The story is as simple as this. Most people in life have their own problems and few are truly satisfied and happy with what they have.Learning path:",
             "price": 599.000,
             "discount": 299.000,
             "category_id": 2,
@@ -165,8 +165,8 @@
         },
         {
             "id": 15,
-            "name": "Building a sales machine with Facebook chatbot ",
-            "describe": "In life, when communicating ...",
+            "name": "Building a sales machine with Facebook chatbot and fanpage chain SEO",
+            "describe": "In life, when communicating, we always ask ourselves what he, she (our object of communication) is thinking, is he telling the truth? How to not be clumsy, clumsy when going to interviews, presentations... This course will help you answer all of these things That, and deeper, not only will you know how to adjust your body language properly, but you will feel more confident, understand the audience better... With reference, select many With various resources from authors, psychologists around the world, the course will provide you with the following basic knowledge and skills: How to use arms and hands properly reason; how to recognize information from the eyes and smiles of the communicator; how to use communication space appropriately; how to know and recognize cultural differences when communicating ... This course will show you how Knowing and using our body language is actually not as difficult as we think and  will be an indispensable communication manual in your work and life.",
             "price": 1599.000,
             "sale": 999.000,
             "category_id": 3,
@@ -176,7 +176,7 @@
         {
             "id": 16,
             "name": "Facebook Ads for Beginners",
-            "describe": "Currently, online business is a trend and running Facebook ads will...",
+            "describe": "Currently, online business is a trend and running Facebook ads will help you increase sales many times. But there is a fact that a lot of people want to run ads but don't know. How to do it Many people find out on their own through Google Youtube or in groups to run ads, but that's just basic running without understanding the essence of doing it yourself FACEBOOK ADVERTISING FOR BEGINNERS FIRST will help you understand what running Facebook ads is, you will also know the process of running ads from A-Z without having to go online to search for information on how to run Facebook ads, you can also plan. run Facebook ads for yourself and increase sales thanks to running Facebook ads properly and according to the process",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 3,
@@ -186,7 +186,7 @@
         {
             "id": 17,
             "name": "Marketing for cosmetic dealers",
-            "describe": "The course helps cosmetic business students gain an overview of... ",
+            "describe": "The course helps cosmetic business students gain an overview of the industry, understand the appropriate marketing channels for their business, and build a methodical marketing plan to help businesses improve sales. building brands and promoting competitive advantages. ",
             "price": 699.000,
             "sale": 399.000,
             "category_id": 3,
@@ -196,7 +196,7 @@
         {
             "id": 18,
             "name": "7 steps to implement facebook marketing - Business in the right direction from the beginning",
-            "describe": "",
+            "describe": "In fact, most of today's business people, especially those who are just starting out, focus right away on learning the Facebook channel, from the smallest functions to the techniques of running ads, without There are important grounding steps in marketing thinking, strategy, and planning. ",
             "price": 699.000,
             "sale": 399.000,
             "category_id": 3,
@@ -216,17 +216,17 @@
         {
             "id": 20,
             "name": "How to treat diseases for office workers",
-            "describe": "- The main content of the  ...",
+            "describe": "- The main content of the course: Guide to self-healing 15 common office diseases Self-healing back pain Guide Self-healing neck shoulder pain Guide self-healing hand numbness Instructions self-healing stomach pain Self-healing instructions Treating digestive disorders Self-healing instructions for hemorrhoids Self-healing instructions for knee pain Self-healing instructions for chest tightness and shortness of breath Instructions for self-healing headaches Treat eye strain Self-treatment instructions for wrist pain Self-treatment instructions Menstrual pain Guidelines for self-treatment of menstrual disorders Prevention of influenza, viral fever Facial massage to increase body resistance - In each disease: Some simple acupressure massage methods, how to eat to prevent disease , practice for healing. ",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 4,
             "img": "https://edumall.vn/_next/image?url=%2Fapi%2Fimageproxy%3Furl%3Dhttps%253A%252F%252Fkelley-lecture-video.s3-ap-southeast-1.amazonaws.com%252FVI_1615969669.802_Dai-30.jpg&w=1920&q=50",
-            "author": "Pham Dang Dinh "
+            "author": "Pham Dang Dinh & Le Tran Phuong Trinh"
         },
         {
             "id": 21,
             "name": "Yoga course for office workers",
-            "describe": "With measures to dispel fatigue for office workers, this course will give you the ",
+            "describe": "With measures to dispel fatigue for office workers, this course will give you the basics of Yoga for the office. ",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 4,
@@ -236,7 +236,7 @@
         {
             "id": 21,
             "name": "Meditation and emotional management for modern people",
-            "describe": "- Desire a simple, easy to apply and safe method to ",
+            "describe": "- Desire a simple, easy to apply and safe method to practice to help stay healthy and relieve stress. ",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 4,
@@ -246,7 +246,7 @@
         {
             "id": 23,
             "name": "Learn Shuffle Dance with Yen Cua",
-            "describe": "- Shuffle Dance is a popular dance, using mostly foot movements along with playful music rhythm...  ",
+            "describe": "- Shuffle Dance is a popular dance, using mostly foot movements along with playful music rhythms to bring comfort and freedom to learners.  ",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 4,
@@ -256,7 +256,7 @@
         {
             "id": 24,
             "name": "5 weeks to get rid of excess fat with simple exercises",
-            "describe": "The course takes place within 5 weeks with exercises  ...",
+            "describe": "The course takes place within 5 weeks with exercises from basic to advanced with exercises to help women lose fat and tone the whole body, especially hard-to-reduce areas such as abdomen, thighs, arms, weight loss. Weight and firming 3 round measurements, improve cardiovascular health, increase fitness, improve posture.",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 4,
@@ -266,7 +266,7 @@
         {
             "id": 25,
             "name": "Health and psychology before pregnancy",
-            "describe": "- Most mothers are psychologically unstable during pregnancy  ...",
+            "describe": "- Most mothers are psychologically unstable during pregnancy and worry about many things, if this problem increases, it will affect the formation and development of the child as well as the mother's health. ",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 4,
@@ -276,7 +276,7 @@
         {
             "id": 26,
             "name": "Sales consulting skills",
-            "describe": "Guide you in author from finding customers, approaching customers, presenting products,..",
+            "describe": "Guide you in author from finding customers, approaching customers, presenting products, overcoming objections, knowing how to close the deal and providing after-sales service. ",
             "price": 5499.000,
             "sale": 299.000,
             "category_id": 5,
@@ -286,7 +286,7 @@
         {
             "id": 27,
             "name": "Actual tax accounting from A - Z",
-            "describe": " The course has briefly condensed important contents and updated the latest policies ... ",
+            "describe": " The course has briefly condensed important contents and updated the latest policies on taxes and fees such as license fees, CIT, VAT, PIT, foreign contractor tax and regulations. Invoices and vouchers, as well as regulations on tax administration, help learners equip themselves with in-depth understanding of current tax laws in order to avoid tax risks for their businesses. ",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 5,
@@ -296,7 +296,7 @@
         {
             "id": 28,
             "name": "Do general accounting on Misa software",
-            "describe": "Deeper understanding of the nature of accounting, know the  of an accounting voucher ...  ",
+            "describe": "Deeper understanding of the nature of accounting, know the  of an accounting voucher and accounting books.  ",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 5,
@@ -306,7 +306,7 @@
         {
             "id": 29,
             "name": "Health and psychology before pregnancy",
-            "describe": "The course focuses on human resource issues in the business, from the perspective of managers as well as job applicants... ",
+            "describe": "The course focuses on human resource issues in the business, from the perspective of managers as well as job applicants. ",
             "price": 699.000,
             "sale": 399.000,
             "category_id": 5,
@@ -316,7 +316,7 @@
         {
             "id": 30,
             "name": "Full set of company accounting knowledge",
-            "describe": "All economic and financial information must be analyzed and processed by the accounting department...  ",
+            "describe": "All economic and financial information must be analyzed and processed by the accounting department.  ",
             "price": 599.000,
             "sale": 299.000,
             "category_id": 5,
